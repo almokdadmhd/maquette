@@ -18,7 +18,13 @@
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3236', endColorstr='#f2ba82',GradientType=1 ); /* IE6-9 */
 }
-
 .entete ul li {
     background-color: transparent;
 } 
+.slide img
+{
+width: 100vw !important;
+max-width: 100%;
+}
+
+
